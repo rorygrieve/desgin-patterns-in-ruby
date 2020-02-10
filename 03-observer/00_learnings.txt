@@ -1,0 +1,3 @@
+I don't like the proc and lambda way of adding code. It's cool that the code, and Ruby, is flexible enough to do this but I think it's easier to test classes.
+
+Observer using push is implemented this way because Ruby will only inherit from the first object as it goes up its inheritance tree.
