@@ -1,0 +1,4 @@
+I got the example to work by assigning the subtasks after initiliastion that way if they need to removed you can pass in a variable.
+Otherwise #remove_sub_tasks needs to be modified e.g. look for and remove instances of that class
+
+The operators stuff is also quite cool but I think I would find having actual method names more readable.
