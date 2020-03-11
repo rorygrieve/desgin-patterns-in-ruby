@@ -1,0 +1,9 @@
+Proxies can offer a good way to separate out security
+Proxy handles security
+Underlying entity handles everything else
+
+Proxy pattern also good for implementing networks calls / remote procedure calls
+The proxy handles the request and returns the response,
+allowing the separation of concerns around networking
+
+By overriding #method_missing and using #send proxies implemented in Ruby can be kept very short.
